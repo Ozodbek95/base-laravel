@@ -14,4 +14,9 @@ class SshController extends BaseController
     {
         return '';
     }
+
+    public function sshFromLaravel1()
+    {
+        return '';
+    }
 }
