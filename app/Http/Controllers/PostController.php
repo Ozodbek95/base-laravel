@@ -20,4 +20,9 @@ class PostController extends Controller
     {
         return '';
     }
+
+    public function nextFunction()
+    {
+
+    }
 }
