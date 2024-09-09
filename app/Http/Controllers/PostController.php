@@ -15,4 +15,9 @@ class PostController extends Controller
     {
         return "";
     }
+
+    public function localThirdFunction()
+    {
+        return '';
+    }
 }
