@@ -16,7 +16,7 @@ class PostController extends Controller
         return "";
     }
 
-    public function localThirdFunction()
+    public function thirdFunction()
     {
         return '';
     }
